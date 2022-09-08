@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://derek-2.github.io/Derek-Lee/)
 
-- 📫 How to reach me **derek.lee953@gmail.com**
+- 📫 How to reach me **lee.derek953@gmail.com**
 
 - 📄 Know about [my experiences](https://derek-2.github.io/Derek-Lee/assets/derek_lee_resume.pdf)
 
